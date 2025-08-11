@@ -1,0 +1,7 @@
+id,date,poi_name,poi_category,dma,visits
+1,2025-07-01,Central Mall,Shopping,New York DMA,1532
+2,2025-07-01,Green Park,Recreation,Boston DMA,824
+3,2025-07-01,Riverside Cafe,Food & Drink,Boston DMA,412
+4,2025-07-02,Central Mall,Shopping,New York DMA,1760
+5,2025-07-02,Green Park,Recreation,Boston DMA,902
+6,2025-07-02,Riverside Cafe,Food & Drink,Boston DMA,395

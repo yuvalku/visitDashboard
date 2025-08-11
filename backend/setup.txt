@@ -1,0 +1,2 @@
+1. edit data.csv file with the actual data
+2. run import_csv (from backend folder) - this will create a sqlite db file.

@@ -1,0 +1,101 @@
+id,date,poi_name,poi_category,dma,visits
+1,2025-06-02,Main Street Cafe,Recreation,Chicago DMA,2071
+2,2025-02-17,Central Park,Food,New York DMA,2712
+3,2025-05-05,Central Park,Entertainment,New York DMA,1878
+4,2025-01-13,Central Park,Technology,Los Angeles DMA,1123
+5,2025-02-20,Grand Theater,Shopping,New York DMA,4521
+6,2025-01-01,Tech Hub,Entertainment,Dallas DMA,683
+7,2025-03-12,Main Street Cafe,Technology,New York DMA,2339
+8,2025-02-08,Main Street Cafe,Culture,Dallas DMA,4911
+9,2025-07-16,City Museum,Shopping,Dallas DMA,1069
+10,2025-05-02,Mall of City,Entertainment,Dallas DMA,2290
+11,2025-06-27,Main Street Cafe,Food,Chicago DMA,592
+12,2025-07-16,Mall of City,Technology,New York DMA,959
+13,2025-03-28,Grand Theater,Entertainment,Chicago DMA,2891
+14,2025-05-04,Tech Hub,Shopping,Miami DMA,3546
+15,2025-07-05,Tech Hub,Recreation,Dallas DMA,848
+16,2025-06-24,City Museum,Entertainment,Miami DMA,1274
+17,2025-02-13,Main Street Cafe,Food,Chicago DMA,4530
+18,2025-03-12,City Museum,Recreation,Dallas DMA,2825
+19,2025-07-04,Main Street Cafe,Shopping,Chicago DMA,982
+20,2025-03-20,Central Park,Recreation,Los Angeles DMA,3491
+21,2025-04-26,Tech Hub,Entertainment,Los Angeles DMA,836
+22,2025-06-29,Grand Theater,Culture,Miami DMA,4134
+23,2025-03-25,Main Street Cafe,Entertainment,Miami DMA,2185
+24,2025-07-01,Main Street Cafe,Recreation,Miami DMA,3141
+25,2025-06-09,Mall of City,Food,Los Angeles DMA,3121
+26,2025-02-13,Tech Hub,Culture,Dallas DMA,884
+27,2025-06-29,Central Park,Shopping,Miami DMA,4412
+28,2025-05-16,Tech Hub,Shopping,Miami DMA,3685
+29,2025-06-14,Grand Theater,Shopping,New York DMA,1209
+30,2025-04-17,Main Street Cafe,Entertainment,Dallas DMA,1195
+31,2025-06-07,Central Park,Shopping,Dallas DMA,4927
+32,2025-05-07,Main Street Cafe,Technology,Miami DMA,4325
+33,2025-02-06,Central Park,Culture,Chicago DMA,4772
+34,2025-06-10,City Museum,Shopping,Miami DMA,4308
+35,2025-07-08,Central Park,Food,Chicago DMA,2583
+36,2025-04-04,Central Park,Shopping,Miami DMA,2225
+37,2025-05-26,City Museum,Shopping,Chicago DMA,3537
+38,2025-04-25,Grand Theater,Food,Chicago DMA,1640
+39,2025-04-09,Central Park,Entertainment,Dallas DMA,1196
+40,2025-01-11,Grand Theater,Food,New York DMA,3418
+41,2025-02-13,Tech Hub,Technology,Dallas DMA,2192
+42,2025-06-02,Tech Hub,Entertainment,Dallas DMA,1157
+43,2025-01-31,City Museum,Technology,Miami DMA,655
+44,2025-04-21,Central Park,Culture,Chicago DMA,3777
+45,2025-04-11,Main Street Cafe,Food,Dallas DMA,2492
+46,2025-01-22,City Museum,Culture,Los Angeles DMA,3433
+47,2025-03-19,Grand Theater,Culture,Chicago DMA,2795
+48,2025-02-18,Mall of City,Shopping,Chicago DMA,4675
+49,2025-03-29,Mall of City,Shopping,Miami DMA,426
+50,2025-05-08,Main Street Cafe,Food,Dallas DMA,1441
+51,2025-05-21,Mall of City,Recreation,Miami DMA,1271
+52,2025-04-18,Central Park,Culture,Dallas DMA,4397
+53,2025-01-23,Mall of City,Culture,Los Angeles DMA,941
+54,2025-01-02,City Museum,Technology,New York DMA,536
+55,2025-06-12,City Museum,Recreation,New York DMA,4540
+56,2025-03-01,Mall of City,Technology,New York DMA,2008
+57,2025-01-21,Grand Theater,Entertainment,Chicago DMA,1103
+58,2025-02-07,Main Street Cafe,Shopping,Miami DMA,1214
+59,2025-03-02,Main Street Cafe,Culture,Miami DMA,3673
+60,2025-05-21,Grand Theater,Shopping,New York DMA,729
+61,2025-02-17,Grand Theater,Culture,Miami DMA,3740
+62,2025-04-08,Tech Hub,Culture,New York DMA,1268
+63,2025-01-31,Tech Hub,Technology,Miami DMA,643
+64,2025-05-31,Tech Hub,Recreation,Los Angeles DMA,4545
+65,2025-03-16,Grand Theater,Recreation,Miami DMA,1613
+66,2025-06-24,Grand Theater,Shopping,Miami DMA,2112
+67,2025-07-19,Central Park,Shopping,Los Angeles DMA,1440
+68,2025-06-30,Central Park,Technology,Los Angeles DMA,272
+69,2025-02-02,Mall of City,Technology,Dallas DMA,4890
+70,2025-02-05,Central Park,Entertainment,Miami DMA,2927
+71,2025-01-14,Central Park,Recreation,Dallas DMA,2332
+72,2025-04-17,Mall of City,Culture,Dallas DMA,4277
+73,2025-05-23,Main Street Cafe,Culture,Los Angeles DMA,3955
+74,2025-05-27,City Museum,Shopping,Dallas DMA,1830
+75,2025-04-21,Main Street Cafe,Food,Los Angeles DMA,2800
+76,2025-06-26,Grand Theater,Food,Los Angeles DMA,4969
+77,2025-05-18,Central Park,Shopping,Dallas DMA,2147
+78,2025-07-12,Central Park,Food,Dallas DMA,1058
+79,2025-01-21,Main Street Cafe,Culture,New York DMA,918
+80,2025-02-10,Tech Hub,Food,Dallas DMA,3961
+81,2025-03-11,Tech Hub,Technology,Miami DMA,1931
+82,2025-02-10,Grand Theater,Technology,Chicago DMA,2832
+83,2025-01-16,Tech Hub,Culture,Dallas DMA,505
+84,2025-02-26,Central Park,Shopping,Miami DMA,3707
+85,2025-06-11,City Museum,Culture,Miami DMA,2997
+86,2025-06-26,Mall of City,Entertainment,Chicago DMA,4704
+87,2025-06-28,Central Park,Shopping,Dallas DMA,3467
+88,2025-07-20,Mall of City,Food,Miami DMA,4836
+89,2025-05-25,Tech Hub,Recreation,New York DMA,4256
+90,2025-07-16,Mall of City,Entertainment,Los Angeles DMA,788
+91,2025-05-05,City Museum,Entertainment,New York DMA,1561
+92,2025-05-18,Grand Theater,Food,Miami DMA,1003
+93,2025-05-24,City Museum,Recreation,Miami DMA,2707
+94,2025-04-21,City Museum,Recreation,New York DMA,733
+95,2025-05-14,Grand Theater,Culture,Miami DMA,4496
+96,2025-03-01,Tech Hub,Shopping,Chicago DMA,1692
+97,2025-01-16,Tech Hub,Recreation,Miami DMA,2322
+98,2025-03-26,Tech Hub,Food,Dallas DMA,3223
+99,2025-03-27,Central Park,Entertainment,Chicago DMA,3161
+100,2025-03-18,City Museum,Food,New York DMA,4345
