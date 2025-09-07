@@ -7,6 +7,6 @@ df.columns = df.columns.str.strip()
 
 connection = sqlite3.connect("data.db")
 
-df.to_sql("data", connection, if_exists="replace")
+df.to_sql("data", connection, if_exists="replace", index=False)
 
 connection.close()
